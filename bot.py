@@ -8,8 +8,8 @@ class SimpleChatbot:
         self.responses = {
             'o que você pode fazer?': ['Eu posso responder a perguntas simples.', 'Eu posso ajudar a resolver problemas.'],
             'olá': ['Olá!', 'Oi!', 'Olá, como posso ajudar?'],
-            'como você está?': ['Estou bem, obrigado!', 'Tudo certo, e você?'],
-            'qual é o seu nome?': ['Eu sou um chatbot sem nome.', 'Você pode me chamar de Chatbot.'],
+            'explque o que é git pull: ['Estou bem, obrigado!', 'Tudo certo, e você?'],
+            'qual é o seu nome?': ['comando para puxar do repositório remoto para o local.', 'Você pode me chamar de Chatbot.'],
             'tchau': ['Tchau!', 'Até logo!', 'Adeus!'],
             'passa a resposta da lição': ['qual é a lição?'],
             'lição de ia': ['qual semana e aula?'],
